@@ -1,0 +1,94 @@
+.contacto .container{
+  max-width: 68.75rem;
+  min-height: 12.5rem;
+  padding: 1.25rem;
+
+}
+
+.contacto .rectagunlo{
+  margin-top: -5rem;
+  background-color: rgb(16, 15, 15);
+  border: 10px;
+  box-shadow: 0px 1px 4px 1px white;
+
+}
+
+.contacto .row{
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.contacto .descripcion {
+  color: #D7CCD5;
+  font-size: 19.2px;
+}
+
+.contacto button{
+  color: rgb(0, 0, 0);
+  font-weight:bold;
+  background-color: #D7CCD5 ;
+  border: linear-gradient(to right, #304352 0%, #D7CCD5 100%);;;
+  padding: 1.25em 2em;
+  margin: 10px;
+  transition: all 0.2s ease-in-out;
+  border-radius: 16px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.contacto button i{
+  color: rgb(0, 0, 0);
+  font-size: 20.8px;
+  transition: all 0.2s ease-in-out;
+}
+
+
+/*Pie de pg-(footer)*/
+
+.footer{
+  min-height: 31.25rem;
+}
+
+.footer-texto{
+  font-size: 1.2rem;
+  padding: 1.25rem;
+  margin-bottom: 1.875rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+.iconos-redes-sociales a{
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+  margin: blue;
+  border: 2px solid white;
+  border-radius: 50%;
+  transition: all 0.2s ease-in;
+  margin: 1em;
+
+}
+
+.iconos-redes-sociales i{
+  color: white;
+  font-size: 1rem;
+  transition: all 0.2s ease-in;
+}
+
+.iconos-redes-sociales a:hover {
+  background-color: linear-gradient(to right, #304352 0%, #D7CCD5 100%);
+  border: 2px white;
+}
+
+.iconos-redes-sociales a:hover i {
+  color: #D7CCD5;
+
+}
+
+.derechos-de-autor{
+  font-size: 15px;
+  color: #aeaeae;
+  padding: 20px;
+}

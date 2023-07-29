@@ -1,0 +1,65 @@
+.experiencia{
+  padding: 40px;
+}
+
+.seccion-oscura{
+  color: aliceblue;
+  background-color: black;
+}
+
+
+
+/*centrar imagenes*/
+
+.seccion-oscura{
+  color:#ffffff;
+  background-image: linear-gradient(to right, #01141c 0%, #080f15 100%);
+
+
+}
+
+.sobre-mi{
+  height: 100%;
+}
+
+.contenedor{
+  max-width: 600rem;
+  text-align: center;
+
+}
+
+.seccion-titulo{
+  padding: 3rem 0;
+  font-family:'Poppins', sans-serif;
+  padding-top: 3rem;
+  color: white;
+
+}
+
+.seccion-texto{
+  font-size: 1.2rem;
+  text-align: center;
+
+}
+.imagenes-en-iconos{
+  max-width: 100%;
+  width: 50rem;
+  padding: 3rem;
+}
+
+
+  /*imagenes 1/2/3*/
+
+  .prototipo{
+    max-width: 100%;
+    width:20rem;
+    padding: 3rem;
+
+  }
+
+
+/*css sobre mi*/
+
+
+
+

@@ -1,0 +1,81 @@
+.experiencia{
+  padding: 40px;
+}
+
+.seccion-oscura{
+  color: aliceblue;
+  background-color: black;
+}
+
+
+
+/*centrar imagenes*/
+
+.seccion-oscura{
+  color:#ffffff;
+  background-image: linear-gradient(to right, #01141c 0%, #080f15 100%);
+
+
+}
+
+.habilidades-adicionales{
+  height: 100%;
+}
+
+.contenedor{
+  max-width: 400rem;
+  text-align: center;
+
+}
+
+.seccion-titulo{
+  padding: 3rem 0;
+  font-family:'Poppins', sans-serif;
+  padding-top: 7rem;
+  color: white;
+
+
+}
+
+.seccion-texto{
+  font-size: 1.2rem;
+  text-align: center;
+
+}
+.imagenes-en-iconos{
+  max-width: 100%;
+  width: 50rem;
+  padding: 3rem;
+}
+
+/*--------------*/
+
+
+
+/*---------------*/
+.card{
+  width: 19rem;
+  height: 3rem;
+  flex-shrink: 0;
+  background-color: #080f15;
+  border-color:#535353
+}
+
+
+
+.imgLogo{
+  width: 3.125rem;
+  padding-block: 7.1px;
+  margin-inline: 6px;
+}
+
+.titulo{
+  margin-top: -2em;
+  text-align:center;
+  margin-left: 8em;
+}
+
+.row{
+  padding-left: 5em;
+  margin-bottom: 2em;
+}

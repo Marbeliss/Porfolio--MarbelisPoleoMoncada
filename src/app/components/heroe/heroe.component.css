@@ -1,0 +1,35 @@
+
+.sobre-mi{
+  background-color: #304352;
+  min-height: 450px;
+  text-align: center;
+}
+
+
+/*estilos generales|los definimos una sola vez */
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1{
+  font-size: 1.8rem;
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff;
+  margin-top: 2rem;
+}
+
+h2{
+  font-size: 1.5rem;
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff;
+}
+
+.hero{
+  background-image: linear-gradient(to right, #01141c 0%, #080f15 100%);
+  min-height: 47rem;
+  padding-top: 17rem;
+}
+

@@ -1,0 +1,20 @@
+
+
+h1{
+  font-size: 2rem;
+  font-family:  'Poppins', sans-serif;
+  color: #ffffff;
+  margin: 2em;
+
+}
+
+
+
+/*fonde de galeria*/
+.galeria{
+
+  min-height: 17rem;
+  padding-top: 2rem;
+  background-image: linear-gradient(to right, #01141c 0%, #080f15 90%);
+  position: relative;
+}
